@@ -7,8 +7,8 @@ trigger:
 - master
 
 pool:
-  name: agent-vm
-  vmImage: Windows_NT
+  name: 'Private Azure Pool'
+  vmImage: 'agent-vm'
 
 steps:
 - task: ArchiveFiles@2
