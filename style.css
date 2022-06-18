@@ -2,7 +2,7 @@ body
 {
  margin:0px auto;
  padding:0px;
- text-align:center;
+ text-align:left;
  width:100%;
  font-family: "Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
  background-color:#A9D0F5;
@@ -12,7 +12,7 @@ body
  width:100%;
  margin:0px auto;
  padding:0px;
- text-align:center;
+ text-align:left;
  height:70px;
  line-height:70px;
 }
